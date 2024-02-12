@@ -1,0 +1,58 @@
+# IDE files
+# PyCharm specific
+.idea/*
+*.iml
+*.ipr
+*.iws
+*.pydevproject
+
+# IntelliJ common
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+
+# Virtual environment
+# Choose one based on your environment manager
+venv/
+.venv/
+pyenv/
+
+# Build and dist files
+build/
+dist/
+*.egg-info/
+
+# Temporary files
+tmp/
+temp/
+
+# Documentation
+docs/build/
+.DS_Store
+
+# IDE logs
+pycharm*.log
+idea*.log
+
+# PyCharm test directories (if not using pytest)
+pytest_cache/
+test_results/
+
+# Local configuration
+*.local
+
+# Ignore coverage report by default
+coverage/
+
+# Specific PyCharm plugins related files
+# Add/remove based on your installed plugins
+*.pycharm-service.xml
+
+# Additional files as needed
+
+# Example: Ignore IDE-specific runtime configuration
+.idea/runConfigurations/
+
+# Remember to add your own project-specific files to ignore
