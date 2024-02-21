@@ -1,4 +1,4 @@
-# Machine Learning Repository
+# Neural Networks Repository
 
 Hello and welcome to my Neural Networks Repository!
 
