@@ -28,4 +28,4 @@ Thank you for your time and consideration.
 
 Best Regards,
 #### Sammy Mwawaka -SCT211-0017/2020
-#### mwawaka.mdoma1@students.jkuat.ac.ke
+mwawaka.mdoma1@students.jkuat.ac.ke
