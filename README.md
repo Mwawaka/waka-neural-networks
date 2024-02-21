@@ -16,7 +16,7 @@ I am excited to share with you this repository which is a compilation of all the
 
 The repository is organized as follows:
 
-1. `Assignments/`: This directory contains the assignments I've completed throughout the course.
+1. `Notebooks/`: This directory contains the assignments I've completed throughout the course.
 
 
 ## Feedback
