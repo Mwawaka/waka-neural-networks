@@ -1,4 +1,5 @@
 # Neural Networks Repository
+<img src="https://cdn2.penguin.com.au/covers/original/9780262048644.jpg" width="600" height="600">
 
 Hello and welcome to my Neural Networks Repository!
 
@@ -27,3 +28,4 @@ Thank you for your time and consideration.
 
 Best Regards,
 #### Sammy Mwawaka -SCT211-0017/2020
+#### mwawaka.mdoma1@students.jkuat.ac.ke
