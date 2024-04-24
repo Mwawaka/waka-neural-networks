@@ -9,9 +9,6 @@ This repository contains all the work I've done for my Neural Networks unit. It 
 
 ## Invitation to my Lecturer
 
-Dear Lecturer,
-
-I am excited to share with you this repository which is a compilation of all the hard work and dedication I've put into this course. I would be honored if you could take some time to review the projects and provide your valuable feedback.
 
 ## Contents
 
@@ -22,10 +19,5 @@ The repository is organized as follows:
 
 ## Feedback
 
-Your feedback is highly appreciated and will help me to improve my skills and the quality of my work. Please feel free to create an issue for feedback or send me an email.
-
-Thank you for your time and consideration.
-
-Best Regards,
 #### Sammy Mwawaka -SCT211-0017/2020
 mwawaka.mdoma1@students.jkuat.ac.ke
